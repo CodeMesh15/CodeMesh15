@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I’m a final-year Mechanical Engineering student at IIT Kharagpur with a deep passion for the intersection of engineering and advanced computation. My interests span:<br><br>- Quantum Computing & Cryptography<br>- Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP)<br>- Computer Vision & Reinforcement Learning<br>- Autonomous Driving Systems & Robotics<br>- Exploring Algorithms, Full Stack Technologies, and Web3<br><br>I’m also highly interested in theoretical physics and pure mathematics, especially their intersections with computational fields. Currently, I’m on a journey to integrate these disciplines, <br>constantly seeking new challenges and collaborations.
+I’m a final-year Mechanical Engineering student at IIT Kharagpur with a deep passion for the intersection of engineering and advanced computation. My interests span:<br><br>- Quantum Computing & Cryptography<br>- Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP)<br>- Computer Vision & Reinforcement Learning<br>- Autonomous Driving Systems & Robotics<br>- Exploring Algorithms, Full Stack Technologies, and Web3<br><br>I’m also highly interested in theoretical physics and pure mathematics, especially their intersections with computational fields. Currently, I’m on a journey to integrate these disciplines, constantly seeking new collaborations and opportunities.
 
 
 # 💻 Tech Stack:
