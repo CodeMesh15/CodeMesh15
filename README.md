@@ -24,7 +24,7 @@ I’m a final-year Mechanical Engineering student at IIT Kharagpur with a deep p
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeMesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeMesh15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMesh15&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMesh15&hide=jupyter%20notebook)
 
 
 ---
